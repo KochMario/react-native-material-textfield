@@ -25,6 +25,8 @@ Material texfield with consistent behaviour on iOS and Android
 I forked this repo to fix a bug with React Native 0.63.2 as seen here.
 [https://stackoverflow.com/questions/61226530/typeerror-undefined-is-not-an-object-evaluating-reactnative-animated-text-pr]
 
+**TODO** Evaluate using https://github.com/gabrieldonadel/rn-material-ui-textfield in the future.
+
 ## Features
 
 * Material design [guidelines][md-textfield] compliance
