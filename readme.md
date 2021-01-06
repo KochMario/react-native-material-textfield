@@ -1,3 +1,9 @@
+## NOTE !
+I forked this repo to fix a bug with React Native 0.63.2 as seen here.
+[https://stackoverflow.com/questions/61226530/typeerror-undefined-is-not-an-object-evaluating-reactnative-animated-text-pr]
+
+**TODO** Evaluate using https://github.com/gabrieldonadel/rn-material-ui-textfield in the future.
+
 [npm-badge]: https://img.shields.io/npm/v/react-native-material-textfield.svg?colorB=ff6d00
 [npm-url]: https://npmjs.com/package/react-native-material-textfield
 [license-badge]: https://img.shields.io/npm/l/react-native-material-textfield.svg?colorB=448aff
@@ -21,11 +27,6 @@ Material texfield with consistent behaviour on iOS and Android
 
 ![example][example-url]
 
-## NOTE !
-I forked this repo to fix a bug with React Native 0.63.2 as seen here.
-[https://stackoverflow.com/questions/61226530/typeerror-undefined-is-not-an-object-evaluating-reactnative-animated-text-pr]
-
-**TODO** Evaluate using https://github.com/gabrieldonadel/rn-material-ui-textfield in the future.
 
 ## Features
 
