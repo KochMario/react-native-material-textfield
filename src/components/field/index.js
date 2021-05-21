@@ -231,7 +231,8 @@ export default class TextField extends PureComponent {
     let options = {
       toValue: this.focusState(),
       duration,
-      useNativeDriver: true
+      // false since borderColor can't be animated with native driver
+      useNativeDriver: false
     };
 
     startAnimation(focusAnimation, options, this.onFocusAnimationEnd);
